@@ -1,0 +1,25 @@
+{
+  "name": "expo",
+  "version": "1.0.0",
+  "description": "For server:\r step 1: cd server\r step 2: npm install\r step 3: npm start",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "expo-blur": "~14.0.3",
+    "expo-constants": "~17.0.5",
+    "expo-haptics": "~14.0.1",
+    "expo-linking": "~7.0.5",
+    "expo-router": "~4.0.17",
+    "expo-splash-screen": "^0.29.21",
+    "expo-status-bar": "~2.0.1",
+    "expo-symbols": "^0.2.1",
+    "expo-system-ui": "~4.0.7",
+    "expo-web-browser": "~14.0.2",
+    "jest-expo": "~52.0.3",
+    "react-native": "^0.76.6"
+  }
+}

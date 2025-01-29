@@ -1,0 +1,129 @@
+[
+  {
+    "id": 1,
+    "title": "Exploring React Native",
+    "img": "https://i.pinimg.com/736x/34/94/6c/34946cc6f6a84e6f83608df3ced96c20.jpg",
+    "content": "React Native is a popular framework for building mobile applications using JavaScript and React.",
+    "author": {
+      "id": 101,
+      "name": "John Doe",
+      "email": "john.doe@example.com"
+    },
+    "createdAt": "2025-01-23T10:00:00Z",
+    "updatedAt": "2025-01-23T12:00:00Z",
+    "tags": ["React Native", "Mobile Development", "JavaScript"],
+    "likes": 120,
+    "comments": [
+      {
+        "id": 201,
+        "author": "Jane Smith",
+        "content": "Great article! I love React Native.",
+        "createdAt": "2025-01-23T11:00:00Z"
+      },
+      {
+        "id": 202,
+        "author": "Mark Lee",
+        "content": "Thanks for sharing this! It was really helpful.",
+        "createdAt": "2025-01-23T11:30:00Z"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Getting Started with JavaScript",
+    "img": "https://i.pinimg.com/736x/34/94/6c/34946cc6f6a84e6f83608df3ced96c20.jpg",
+    "content": "JavaScript is a versatile language used for web development, backend services, and more.",
+    "author": {
+      "id": 102,
+      "name": "Alice Brown",
+      "email": "alice.brown@example.com"
+    },
+    "createdAt": "2025-01-20T08:00:00Z",
+    "updatedAt": "2025-01-22T09:00:00Z",
+    "tags": ["JavaScript", "Web Development"],
+    "likes": 95,
+    "comments": [
+      {
+        "id": 203,
+        "author": "Michael Scott",
+        "content": "JavaScript has been my go-to language for years!",
+        "createdAt": "2025-01-22T10:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "Understanding Flexbox in CSS",
+    "img": "https://i.pinimg.com/736x/34/94/6c/34946cc6f6a84e6f83608df3ced96c20.jpg",
+    "content": "Flexbox is a layout model in CSS that makes it easy to design responsive layouts.",
+    "author": {
+      "id": 103,
+      "name": "Emily Davis",
+      "email": "emily.davis@example.com"
+    },
+    "createdAt": "2025-01-18T14:00:00Z",
+    "updatedAt": "2025-01-19T16:00:00Z",
+    "tags": ["CSS", "Flexbox", "Responsive Design"],
+    "likes": 85,
+    "comments": [
+      {
+        "id": 204,
+        "author": "David Jones",
+        "content": "Flexbox has made my life so much easier!",
+        "createdAt": "2025-01-19T17:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "title": "Introduction to Node.js",
+    "img": "https://i.pinimg.com/736x/34/94/6c/34946cc6f6a84e6f83608df3ced96c20.jpg",
+    "content": "Node.js is a runtime for executing JavaScript code on the server side.",
+    "author": {
+      "id": 104,
+      "name": "Chris White",
+      "email": "chris.white@example.com"
+    },
+    "createdAt": "2025-01-15T12:00:00Z",
+    "updatedAt": "2025-01-16T13:00:00Z",
+    "tags": ["Node.js", "Backend Development"],
+    "likes": 110,
+    "comments": [
+      {
+        "id": 205,
+        "author": "Sarah Connor",
+        "content": "Node.js is a game changer for backend development!",
+        "createdAt": "2025-01-16T14:00:00Z"
+      },
+      {
+        "id": 206,
+        "author": "John Wick",
+        "content": "Great explanation of Node.js!",
+        "createdAt": "2025-01-16T15:00:00Z"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "title": "Mastering MongoDB for Beginners",
+    "img": "https://i.pinimg.com/736x/34/94/6c/34946cc6f6a84e6f83608df3ced96c20.jpg",
+    "content": "MongoDB is a NoSQL database that stores data in flexible, JSON-like documents.",
+    "author": {
+      "id": 105,
+      "name": "Sophia Green",
+      "email": "sophia.green@example.com"
+    },
+    "createdAt": "2025-01-10T09:00:00Z",
+    "updatedAt": "2025-01-12T11:00:00Z",
+    "tags": ["MongoDB", "Database", "NoSQL"],
+    "likes": 75,
+    "comments": [
+      {
+        "id": 207,
+        "author": "Bruce Wayne",
+        "content": "MongoDB is perfect for projects requiring high scalability!",
+        "createdAt": "2025-01-12T12:00:00Z"
+      }
+    ]
+  }
+]
