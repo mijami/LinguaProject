@@ -24,6 +24,10 @@ _This is a React Native app built with Expo Router, designed to help users learn
     ```sh
     npx expo start
     ```
+4. **Start the server**
+    ```sh
+    node server.js  
+    ```
 
 ## 🚀 Usage
 1. **User Authentication**
